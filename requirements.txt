@@ -49,4 +49,4 @@ uvicorn==0.34.0
 websocket-client==1.8.0
 websockets==14.2
 wsproto==1.2.0
-yarl==1.18.3
+yarl==1.18.33
